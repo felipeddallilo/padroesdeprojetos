@@ -6,6 +6,8 @@ import Flyweight.Ponto;
 
 public class Main {
 
+	
+	//Padrão para a redução de envio de dados
 	public static void main(String [] args) {
 		FlyweightFactory factory = new FlyweightFactory();
 		 
